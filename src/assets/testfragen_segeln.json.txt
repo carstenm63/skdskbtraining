@@ -1,0 +1,1087 @@
+{
+    "testfrage": [
+        {
+            "question": "254. Was wird unter einem \"Kimmkieler\" verstanden?",
+            "answers": [
+                {
+                    "answer": "Eine Yacht mit zwei Seitenkielen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Eine Yacht mit zwei Seitenschwertern.",
+                    "valid": false
+                },
+                {
+                    "answer": "Eine Yacht mit einem Kielschwert.",
+                    "valid": false
+                },
+                {
+                    "answer": "Eine Yacht mit zwei Kielen hintereinander.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 254
+        },
+        {
+            "question": "255. Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?",
+            "answers": [
+                {
+                    "answer": "Er kann problemlos aufrecht trocken fallen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Sein Tiefgang ist größer.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Abdrift ist geringer als bei anderen Kielbooten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der Kiel lässt sich aufholen.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 255
+        },
+        {
+            "question": "256. Was wird unter einer \"Kielschwertyacht\" verstanden?",
+            "answers": [
+                {
+                    "answer": "Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.",
+                    "valid": true
+                },
+                {
+                    "answer": "Eine Yacht mit einem Ballastkiel und einem zusätzlichen Schwert.",
+                    "valid": false
+                },
+                {
+                    "answer": "Eine Yacht mit einem aufholbaren Ballastkiel.",
+                    "valid": false
+                },
+                {
+                    "answer": "Eine Yacht mit zwei Seitenkielen.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 256
+        },
+        {
+            "question": "257. Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?",
+            "answers": [
+                {
+                    "answer": "Durch den Sog, der bei Fahrt durchs Wasser entsteht.",
+                    "valid": true
+                },
+                {
+                    "answer": "Durch die Schwerkraft fließt das Wasser außenbords.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch die Massenträgheit, die das Boot besitzt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch das Druckgefälle zwischen Luft- und Wasserdruck.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 257
+        },
+        {
+            "question": "258. Was wird unter \"Formstabilität\" verstanden?",
+            "answers": [
+                {
+                    "answer": "Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.",
+                    "valid": true
+                },
+                {
+                    "answer": "Die Fähigkeit eines Schiffes, sich nach einer Kenterung wieder von selbst aufzurichten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Fähigkeit eines Schiffes beim Loslassen der Pinne den Kurs beizubehalten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Fähigkeit eines Schiffes über Jahre die Rumpfform auch bei starker Beanspruchung beizubehalten.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 258
+        },
+        {
+            "question": "259. Was wird unter \"Gewichtsstabilität\" verstanden?",
+            "answers": [
+                {
+                    "answer": "Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.",
+                    "valid": true
+                },
+                {
+                    "answer": "Die Möglichkeit durch zusätzlichen Innenballast die Krängung zu verringern.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Möglichkeit durch ein hohes Crewgewicht der Krängung entgegenzuwirken.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 259
+        },
+        {
+            "question": "260. Welche Boote sind vorwiegend \"gewichtsstabil\"?",
+            "answers": [
+                {
+                    "answer": "Kielyachten sind vorwiegend \"gewichtsstabil\".",
+                    "valid": true
+                },
+                {
+                    "answer": "Jollen sind vorwiegend \"gewichtsstabil\".",
+                    "valid": false
+                },
+                {
+                    "answer": "Katamarane sind vorwiegend \"gewichtsstabil\".",
+                    "valid": false
+                },
+                {
+                    "answer": "Trimarane sind vorwiegend \"gewichtsstabil\".",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 260
+        },
+        {
+            "question": "261. Welche Boote sind vorwiegend \"formstabil\"?",
+            "answers": [
+                {
+                    "answer": "Jollen sind vorwiegend \"formstabil\".",
+                    "valid": true
+                },
+                {
+                    "answer": "Kielyachten sind vorwiegend \"formstabil\".",
+                    "valid": false
+                },
+                {
+                    "answer": "Kimmkieler sind vorwiegend \"formstabil\".",
+                    "valid": false
+                },
+                {
+                    "answer": "Kielschwertyachten sind vorwiegend \"formstabil\".",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 261
+        },
+        {
+            "question": "262. Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?",
+            "answers": [
+                {
+                    "answer": "Durch Ausreiten bzw. durch Benutzung der Trapezeinrichtung.",
+                    "valid": true
+                },
+                {
+                    "answer": "Durch Verlagerung von Innenballast.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch Umpumpen von Wasserballast.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch Ausfahren von sogenannten Trimmklappen oder eines Zusatzschwertes.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 262
+        },
+        {
+            "question": "263. Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei ständiger Krängung?",
+            "answers": [
+                {
+                    "answer": "Es nimmt anfangs zu bis zum Erreichen eines kritischen Winkels, von da an immer schneller ab bis zur Kenterung.",
+                    "valid": true
+                },
+                {
+                    "answer": "Es nimmt anfangs ab bis zum Erreichen des kritischen Winkels, von da an immer schneller zu bis zur Kenterung.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es nimmt anfangs langsam ab bis zum Erreichen des kritischen Winkels, von da an immer schneller ab bis zur Kenterung.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es nimmt linear bis zur Kenterung ab.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 263
+        },
+        {
+            "question": "264. Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?",
+            "answers": [
+                {
+                    "answer": "Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.",
+                    "valid": true
+                },
+                {
+                    "answer": "Es nimmt bis zum Erreichen des kritischen Winkels zu, der bei etwa 70° liegt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es nimmt bis zum Erreichen des kritischen Winkels von 90° ab.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es nimmt bis 90° Krängung ab und dann stetig zu.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 264
+        },
+        {
+            "question": "265. Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?",
+            "answers": [
+                {
+                    "answer": "Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen geben.",
+                    "valid": true
+                },
+                {
+                    "answer": "Sofort ankern und einen Notruf absetzen, Signalkörper (blauer Kegel) setzen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Rote Flagge kreisförmig schwenken, Schleppleine bereithalten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Segel bergen, Motor starten und in Rückwärtsfahrt das Ufer ansteuern.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 265
+        },
+        {
+            "question": "266. Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient werden?",
+            "answers": [
+                {
+                    "answer": "Durch einen Pinnenausleger.",
+                    "valid": true
+                },
+                {
+                    "answer": "Durch Verstellen des Travellers.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch das Ausreiten mit Hilfe des Trapezes.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch Ersetzen der Pinne durch ein Rad.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 266
+        },
+        {
+            "question": "267. Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?",
+            "answers": [
+                {
+                    "answer": "Damit es im Gebrauchsfall klar liegt.",
+                    "valid": true
+                },
+                {
+                    "answer": "Damit es trocknen kann und nicht verrottet.",
+                    "valid": false
+                },
+                {
+                    "answer": "Damit die Reißfestigkeit erhalten bleibt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Damit es nicht durch UV-Strahlung beschädigt wird.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 267
+        },
+        {
+            "question": "268. Warum sollten Fallen stets ordentlich aufgeschossen werden?",
+            "answers": [
+                {
+                    "answer": "Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.",
+                    "valid": true
+                },
+                {
+                    "answer": "Damit sie trocknen können und nicht verrotten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Damit sie nicht durch UV-Strahlung beschädigt werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Damit sie nicht mit den Schoten verwechselt werden können.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 268
+        },
+        {
+            "question": "269. Wie heißen die Ecken eines Segels?",
+            "answers": [
+                {
+                    "answer": "Kopf, Hals, Schothorn.",
+                    "valid": true
+                },
+                {
+                    "answer": "Kopf, Hals, Nock.",
+                    "valid": false
+                },
+                {
+                    "answer": "Vorliek, Unterliek, Achterliek.",
+                    "valid": false
+                },
+                {
+                    "answer": "Vorstag, Unterwant, Achterstag.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 269
+        },
+        {
+            "question": "270. Wie heißen die Kanten eines Segels?",
+            "answers": [
+                {
+                    "answer": "Vorliek, Unterliek, Achterliek.",
+                    "valid": true
+                },
+                {
+                    "answer": "Kopf, Hals, Nock.",
+                    "valid": false
+                },
+                {
+                    "answer": "Vorstag, Unterwant, Achterstag.",
+                    "valid": false
+                },
+                {
+                    "answer": "Kopf, Hals, Schothorn.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 270
+        },
+        {
+            "question": "271. Wozu dienen Segellatten?",
+            "answers": [
+                {
+                    "answer": "Der Formgebung und Aussteifung des Segels.",
+                    "valid": true
+                },
+                {
+                    "answer": "Der Erleichterung des Reffens.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der Verhinderung des Killens von Segeln.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der Möglichkeit das Segel auch bei Starkwind nutzen zu können.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 271
+        },
+        {
+            "question": "272. Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?",
+            "answers": [
+                {
+                    "answer": "Killen schädigt das Tuch und lässt Nähte aufgehen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Killen lässt das Boot bei stärkerem Wind kentern.",
+                    "valid": false
+                },
+                {
+                    "answer": "Killen führt zu Verletzungen der Besatzung.",
+                    "valid": false
+                },
+                {
+                    "answer": "Killen führt zu Beschädigungen an nebeneinander liegenden Schiffen.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 272
+        },
+        {
+            "question": "273. Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?",
+            "answers": [
+                {
+                    "answer": "Weil unter Winddruck daraus schnell große Schäden werden.",
+                    "valid": true
+                },
+                {
+                    "answer": "Weil dadurch der Vortrieb des Segels leidet.",
+                    "valid": false
+                },
+                {
+                    "answer": "Weil es nur noch bei Flaute eingesetzt werden kann.",
+                    "valid": false
+                },
+                {
+                    "answer": "Weil Feuchtigkeit in das Segel eindringen kann.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 273
+        },
+        {
+            "question": "274. Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?",
+            "answers": [
+                {
+                    "answer": "An Flaggen oder anderen Anzeichen an Land.",
+                    "valid": true
+                },
+                {
+                    "answer": "An der Zugrichtung von Wolken.",
+                    "valid": false
+                },
+                {
+                    "answer": "An der Nationalflagge am Heck.",
+                    "valid": false
+                },
+                {
+                    "answer": "An den Trimmfäden im Großsegel.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 274
+        },
+        {
+            "question": "275. Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?",
+            "answers": [
+                {
+                    "answer": "Der scheinbare Wind.",
+                    "valid": true
+                },
+                {
+                    "answer": "Der Fahrtwind.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der wahre Wind.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Windrichtung.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 275
+        },
+        {
+            "question": "276. Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?",
+            "answers": [
+                {
+                    "answer": "Auf Vorwindkurs.",
+                    "valid": true
+                },
+                {
+                    "answer": "Auf Halbwindkurs.",
+                    "valid": false
+                },
+                {
+                    "answer": "Auf Amwindkurs.",
+                    "valid": false
+                },
+                {
+                    "answer": "Auf Raumschotkurs.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 276
+        },
+        {
+            "question": "277. Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?",
+            "answers": [
+                {
+                    "answer": "Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.",
+                    "valid": true
+                },
+                {
+                    "answer": "Der wahre Wind wird durch den Fahrtwind abgebremst.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der scheinbare Wind wird durch den Unterdruck am Segel entlang abgebremst.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der scheinbare Wind ist unabhängig von der Windrichtung immer schwächer als der wahre Wind.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 277
+        },
+        {
+            "question": "278. Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?",
+            "answers": [
+                {
+                    "answer": "Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.",
+                    "valid": true
+                },
+                {
+                    "answer": "Da sich auf diesem Kurs eine Düse zwischen Fock- und Großsegel bildet, die den Wind verstärkt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Da der wahre Wind beim Amwindkurs stärker ist als bei raumen Kursen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Da der scheinbare Wind unabhängig von der Windrichtung immer stärker als der wahre Wind ist.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 278
+        },
+        {
+            "question": "279. Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?",
+            "answers": [
+                {
+                    "answer": "Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.",
+                    "valid": true
+                },
+                {
+                    "answer": "Boote sind stabiler, wenn der Wind achterlicher einfällt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Der wahre Wind staut sich am Segel bei Raumschotkurs und ist deshalb schwächer.",
+                    "valid": false
+                },
+                {
+                    "answer": "Bei Amwindkurs streicht der Wind am tragflächenartig gewölbten Segel entlang und wird dadurch beschleunigt.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 279
+        },
+        {
+            "question": "280. Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?",
+            "answers": [
+                {
+                    "answer": "Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende scheinbare Wind raumer.",
+                    "valid": true
+                },
+                {
+                    "answer": "Da durch die Koreoliskraft der Wind auch seine Richtung ändert, wenn er stärker wird.",
+                    "valid": false
+                },
+                {
+                    "answer": "Da durch den Trimm des Bootes sich der Kurs automatisch ändert, wenn der Wind zunimmt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Da die Windrichtung durch die Segelstellung beeinflusst wird, verändert sich auch der scheinbare Wind.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 280
+        },
+        {
+            "question": "281. Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?",
+            "answers": [
+                {
+                    "answer": "Mitluven, um weitere Höhe zu gewinnen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Abfallen, um maximale Höhe zu segeln.",
+                    "valid": false
+                },
+                {
+                    "answer": "Segel etwas fieren, um die Bö in Krängung umzusetzen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Ein Spinnacker kann gesetzt werden.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 281
+        },
+        {
+            "question": "282. Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?",
+            "answers": [
+                {
+                    "answer": "Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der Kenterung bei einer unfreiwilligen Halse.",
+                    "valid": true
+                },
+                {
+                    "answer": "Es sollte gefiert werden. Dadurch wird das Boot stabiler und die Gefahr der Kenterung bei einer unfreiwilligen Halse reduziert.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es sollte nie ganz aufgeholt werden, da es sonst bei einer Kenterung zum Aufrichten der Jolle nicht mehr greifbar ist.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es sollte bei stärkerem Wind ganz aufgeholt werden, um die Steuerfähigkeit der Jolle zu verbessern.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 282
+        },
+        {
+            "question": "283. Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs etwas aufgeholt wird?",
+            "answers": [
+                {
+                    "answer": "Die Abdrift wird größer, die Krängung nimmt ab.",
+                    "valid": true
+                },
+                {
+                    "answer": "Die Abdrift wird größer, die Krängung nimmt zu.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Abdrift nimmt ab, das Boot wird aufgrund des geringeren Wasserwiderstandes schneller.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Abdrift wird kleiner, die Krängung nimmt ab.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 283
+        },
+        {
+            "question": "284. Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?",
+            "answers": [
+                {
+                    "answer": "Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Möglichst aufrecht, weil sonst Abdrift und Leegierigkeit zunehmen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Leicht nach Lee geneigt, da sonst die Segel leicht nach Luv überkommen können.",
+                    "valid": false
+                },
+                {
+                    "answer": "Möglichst nach Luv geneigt, weil dadurch die Abdrift und die Luvgierigkeit abnehmen.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 284
+        },
+        {
+            "question": "285. Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit des Bootes aus?",
+            "answers": [
+                {
+                    "answer": "Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.",
+                    "valid": true
+                },
+                {
+                    "answer": "Die Krängung und die Geschwindigkeit nehmen bis zum kritischen Punkt zu, darüber hinaus schnell ab.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Geschwindigkeit nimmt zu, da dadurch die Windkräfte optimaler genutzt werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Das Boot bleibt stehen, da die Strömung abreißt.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 285
+        },
+        {
+            "question": "286. Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels aus?",
+            "answers": [
+                {
+                    "answer": "Das Unterliek killt, das Achterliek wird übermäßig gereckt.",
+                    "valid": true
+                },
+                {
+                    "answer": "Das Achterliek killt, das Vorliek wird übermäßig gereckt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Das Vorliek killt, das Unterliek wird übermäßig gereckt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Das Vorliek killt, das Achterliek wird übermäßig gereckt.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 286
+        },
+        {
+            "question": "287. Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels aus?",
+            "answers": [
+                {
+                    "answer": "Das Achterliek killt, das Unterliek wird übermäßig gereckt.",
+                    "valid": true
+                },
+                {
+                    "answer": "Das Vorliek killt, das Unterliek wird übermäßig gereckt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Das Unterliek killt, das Achterliek wird übermäßig gereckt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Das Achterliek killt, das Vorliek wird übermäßig gereckt.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 287
+        },
+        {
+            "question": "288. Wie muss ein Segel bei leichtem Wind getrimmt werden?",
+            "answers": [
+                {
+                    "answer": "Das Segel soll bauchig stehen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Das Segel soll flach getrimmt werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Schoten müssen gefiert werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Schoten müssen dicht geholt werden.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 288
+        },
+        {
+            "question": "289. Wie muss ein Segel bei starkem Wind getrimmt werden?",
+            "answers": [
+                {
+                    "answer": "Das Segel soll flach getrimmt werden.",
+                    "valid": true
+                },
+                {
+                    "answer": "Es soll bauchig getrimmt werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Schoten müssen dicht geholt werden.",
+                    "valid": false
+                },
+                {
+                    "answer": "Die Schoten müssen gefiert werden.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 289
+        },
+        {
+            "question": "290. Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?",
+            "answers": [
+                {
+                    "answer": "Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.",
+                    "valid": true
+                },
+                {
+                    "answer": "Je nach Zugkraft wird der untere Teil des Vorsegels bauchiger oder flacher.",
+                    "valid": false
+                },
+                {
+                    "answer": "Je nach Zugkraft wird der achtere Teil des Vorsegels bauchiger oder flacher.",
+                    "valid": false
+                },
+                {
+                    "answer": "Je nach Zugkraft wird der achtere Teil des Großsegels bauchiger oder flacher.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 290
+        },
+        {
+            "question": "291. Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?",
+            "answers": [
+                {
+                    "answer": "Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.",
+                    "valid": true
+                },
+                {
+                    "answer": "Großsegel flacher trimmen; Gewichtsverlagerung nach vorne.",
+                    "valid": false
+                },
+                {
+                    "answer": "Vorsegel flacher trimmen; Gewichtsverlagerung nach achtern.",
+                    "valid": false
+                },
+                {
+                    "answer": "Vorsegel flacher trimmen; Gewichtsverlagerung nach vorne.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 291
+        },
+        {
+            "question": "292. Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?",
+            "answers": [
+                {
+                    "answer": "Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.",
+                    "valid": true
+                },
+                {
+                    "answer": "Großsegel flacher trimmen, Gewichtsverlagerung nach vorn.",
+                    "valid": false
+                },
+                {
+                    "answer": "Großsegel bauchiger trimmen, Gewichtsverlagerung nach hinten.",
+                    "valid": false
+                },
+                {
+                    "answer": "Großsegel flacher trimmen, Gewichtsverlagerung nach hinten.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 292
+        },
+        {
+            "question": "293. Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?",
+            "answers": [
+                {
+                    "answer": "Weil es im Notfall von selbst in den Wind schießt.",
+                    "valid": true
+                },
+                {
+                    "answer": "Weil es sich so anspruchsvoller steuern lässt.",
+                    "valid": false
+                },
+                {
+                    "answer": "Weil es so weniger Höhe läuft.",
+                    "valid": false
+                },
+                {
+                    "answer": "Weil es auf Raumschotkurs mehr Geschwindigkeit läuft.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 293
+        },
+        {
+            "question": "294. Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?",
+            "answers": [
+                {
+                    "answer": "Die Luvgierigkeit nimmt zu.",
+                    "valid": true
+                },
+                {
+                    "answer": "Die Leegierigkeit nimmt zu.",
+                    "valid": false
+                },
+                {
+                    "answer": "Keinen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Bis 45° Krängung nimmt die Luvgierigkeit zu, dann wieder ab.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 294
+        },
+        {
+            "question": "295. Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?",
+            "answers": [
+                {
+                    "answer": "1 Wende, 2 Halse, 3 Q-Wende.",
+                    "valid": true
+                },
+                {
+                    "answer": "1 Q-Wende, 2 Halse, 3 Wende.",
+                    "valid": false
+                },
+                {
+                    "answer": "1 Halse, 2 Wende, 3 Q-Wende.",
+                    "valid": false
+                },
+                {
+                    "answer": "1 Wende, 2 Q-Wende, 3 Halse.",
+                    "valid": false
+                }
+            ],
+            "images": [
+                "https://www.elwis.de//DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-Binnen/Spezifische-Fragen-Segeln/Bild-Frage-295.gif?__blob=normal&v=1"
+            ],
+            "number": 295
+        },
+        {
+            "question": "296. Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen wird?",
+            "answers": [
+                {
+                    "answer": "Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.",
+                    "valid": true
+                },
+                {
+                    "answer": "Schwert absenken, Ruder aufholen, damit das Boot frei schwojen kann.",
+                    "valid": false
+                },
+                {
+                    "answer": "Schwert aufholen, Ruder absenken, damit das Boot frei schwojen kann.",
+                    "valid": false
+                },
+                {
+                    "answer": "Schwert und Ruder absenken, damit das Boot frei schwojen kann.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 296
+        },
+        {
+            "question": "297. Warum ist eine Patenthalse gefährlich?",
+            "answers": [
+                {
+                    "answer": "Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.",
+                    "valid": true
+                },
+                {
+                    "answer": "Es kann zur plötzlichen Änderung der Ausweichpflicht kommen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es kann zum Verlust der Steuerfähigkeit des Fahrzeuges führen.",
+                    "valid": false
+                },
+                {
+                    "answer": "Es kann erneut eine Patenthalse folgen, wenn nicht sofort abgefallen wird.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 297
+        },
+        {
+            "question": "298. Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?",
+            "answers": [
+                {
+                    "answer": "Wende.",
+                    "valid": true
+                },
+                {
+                    "answer": "Halse.",
+                    "valid": false
+                },
+                {
+                    "answer": "Q-Wende.",
+                    "valid": false
+                },
+                {
+                    "answer": "Aufschießer.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 298
+        },
+        {
+            "question": "299. Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?",
+            "answers": [
+                {
+                    "answer": "Abfallen auf Vorwindkurs.",
+                    "valid": true
+                },
+                {
+                    "answer": "Dichtholen und Anluven.",
+                    "valid": false
+                },
+                {
+                    "answer": "Einen Aufschießer fahren.",
+                    "valid": false
+                },
+                {
+                    "answer": "Eine Halse fahren.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 299
+        },
+        {
+            "question": "300. Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?",
+            "answers": [
+                {
+                    "answer": "Durch die Fock oder ein Fall.",
+                    "valid": true
+                },
+                {
+                    "answer": "Durch die Fockschot oder das Großfall.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch die Vor- oder die Achterleine.",
+                    "valid": false
+                },
+                {
+                    "answer": "Durch die Fockschot oder eine Reffleine.",
+                    "valid": false
+                }
+            ],
+            "images": [],
+            "number": 300
+        }
+    ]
+}

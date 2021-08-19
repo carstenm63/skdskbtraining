@@ -1,0 +1,15 @@
+<div fxLayout="row wrap" fxLayoutAlign="start stretch" style="padding-top: 40px">
+    <div fxFlex="30%">
+        <div class="label">Längengrad:</div>
+        <div class="lon">{{longitude}}</div>
+        <div class="label">Breitengrad:</div>
+        <div class="lat">{{latitude}}</div>
+        <button type="button" mat-button (click)="resetHard()" color="primary">Reset</button>
+    </div>
+    <div fxFlex="70%">
+        <div class="mapcontainer" #skmap (mousemove)="showCoords($event)" (mouseout)="reset()">
+            <img src="/assets/img/seekarte.png" #skimg cdkDrag (cdkDragEnded)="dragEnd($event)"></div>
+
+            
+    </div>
+</div>

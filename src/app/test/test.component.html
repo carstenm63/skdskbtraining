@@ -1,0 +1,33 @@
+<div class="container">
+    <h1>{{Headline}}</h1>
+    <div class="test-box" *ngIf="latest >= 0">
+        <div fxLayout="row wrap" fxLayoutAlign="start stretch">
+            <div fxFlex="50%" class="col-question">
+                <h2 [innerHTML]="fragen[latest].question"></h2>
+                <div *ngFor="let image of fragen[latest].images">
+                    <img [src]="image" />
+                </div>
+            </div>
+            <div fxFlex="50%" class="col-answers">
+                <p *ngFor="let answer of fragen[latest].answers" class="answer">
+                    <input type="radio" name="ans" (change)="checkAnswer(answer)" [disabled]="isAnswered" />
+                    <label [innerHTML]="answer.answer"
+                        [ngClass]="{ 'green' : answer.valid && isAnswered   , 'red': !answer.valid && isAnswered }"></label>
+                </p>
+            </div>
+        </div>
+        <div fxLayout="row wrap" fxLayoutAlign="start stretch" class="info-row">
+            <div fxFlex="100%">
+                <div class="buttons">
+                    <button (click)="next()" *ngIf="isAnswered">Nächste Frage</button>
+                    <div class="results">
+                        <span class="green">Richtig: {{ testState.correct }}</span>
+                        <span class="red">Falsch: {{ testState.incorrect }}</span>
+                        <span class="normal">Verbleibend: {{ testState.remaining }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="quelle">https://www.elwis.de</div>
+</div>

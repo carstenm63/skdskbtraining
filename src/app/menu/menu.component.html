@@ -1,0 +1,14 @@
+<button mat-button [matMenuTriggerFor]="menu">
+    <mat-icon>menu</mat-icon>
+</button>
+<button mat-button class="toggle">
+    <mat-icon (click)="toggleMode()">{{isTest ? 'toggle_on' : 'toggle_off'}}</mat-icon> <span>{{isTest ? 'Testmodus' : 'Übung'}}</span>
+</button>
+<mat-menu #menu="matMenu">
+    <button mat-menu-item (click)="goto(['/','seekarte'])" [ngClass]="{ 'selected' : nr === 0}">Karte</button>
+    <button mat-menu-item (click)="goto(['/','pruefung', '1'])" [ngClass]="{ 'selected' : nr === 1}">Allgemeine Fragen</button>
+    <button mat-menu-item (click)="goto(['/','pruefung', '2'])" [ngClass]="{ 'selected' : nr === 2}">Spezifische Fragen See</button>
+    <button mat-menu-item (click)="goto(['/','pruefung', '3'])" [ngClass]="{ 'selected' : nr === 3}">Spezifische Fragen Binnen</button>
+    <button mat-menu-item (click)="goto(['/','pruefung', '4'])" [ngClass]="{ 'selected' : nr === 4}">Spezifische Fragen Segeln</button>
+    <button mat-menu-item (click)="goto(['/','pruefung', '5'])" [ngClass]="{ 'selected' : nr === 5}">Fehlerwiederholung</button>
+</mat-menu>
